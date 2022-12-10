@@ -34,4 +34,4 @@ Mejores años en ganancias por tipo de propiedad =
 <p>e) Hostel = 2017
 <p>f) Timeshare = 2016
 
-Mejores 3 barrios de Madrid por ganancia = Malasaña, Palacio, Fuencarral-el Pardo.
+Mejores 3 barrios de Madrid de ganancia por año = Malasaña, Palacio, Fuencarral-el Pardo.
