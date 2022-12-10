@@ -3,7 +3,7 @@
 Cuales han sido los mejores años de ganancia entre las propiedades
 Bed & Breakfast, Boutique hotel, Guest suite, Guesthouse,
 Hostel y Timeshare en los barrios de Madrid, y cuales son los barrios con mejor
-promedio de alquiler por año.
+ganancias por año.
 
 ============================================================================================
 
